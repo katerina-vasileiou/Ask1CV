@@ -1,3 +1,5 @@
+VASILEIOU AIKATERINA AM: 2646 6th year
+
 # Ask1CV
 First exercise of the project in Computer Vision concerning tresholding of an image.
 
